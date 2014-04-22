@@ -1,0 +1,27 @@
+{
+  "name": "bmcmahen-magazine",
+  "description": "create a horizontal, swipeable magazine layout",
+  "version": "0.0.3",
+  "keywords": [],
+  "main": "index.js",
+  "styles": [
+    "styles/magazine.css",
+    "styles/layouts.css",
+    "styles/buttons.css",
+    "styles/grid.css",
+    "styles/animations.css"
+  ],
+  "dependencies": {
+    "component-swipe": "git://github.com/npmcomponent/component-swipe.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-css": "git://github.com/npmcomponent/component-css.git",
+    "component-each": "git://github.com/npmcomponent/component-each.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-map": "git://github.com/npmcomponent/component-map.git",
+    "yields-k": "git://github.com/npmcomponent/yields-k.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "bmcmahen-cycle": "git://github.com/npmcomponent/bmcmahen-cycle.git",
+    "timoxley-next-tick": "git://github.com/npmcomponent/timoxley-next-tick.git"
+  },
+  "license": "MIT"
+}
